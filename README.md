@@ -16,6 +16,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este é um sistema de gerenciamento de tarefas desenvolvido usando o framework Laravel. Ele fornece uma API para realizar operações básicas de criação, leitura, atualização e exclusão (CRUD) de tarefas.
 
+## Link do Video testando Api
+https://youtube.com/shorts/WiPctc1v8Rs
+
 
 ## Uso da API
 
